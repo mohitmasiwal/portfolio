@@ -22,6 +22,10 @@ const Home = () => {
           and I am a{' '}
           <span className="text-blue-500 dark:text-blue-300">Frontend Developer</span>
         </h1>
+        <h1 className="text-2xl text-gray-700 dark:text-gray-400">
+        connect with me
+           
+        </h1>
 
         <div className="flex justify-center mt-6 space-x-4">
           <a href="https://www.linkedin.com/in/mohit-masiwal-0b08b1324" target="_blank" rel="noreferrer">
@@ -51,4 +55,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Home; 
