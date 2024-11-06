@@ -12,19 +12,13 @@ const Projects = () => {
   };
 
   const projects = [
-    {
-      name: "Food Ordering Website",
-      description: "A responsive food ordering website where users can browse menus, Built with React and Tailwind CSS.",
-      image: "https://images.pexels.com/photos/29021173/pexels-photo-29021173/free-photo-of-delicious-italian-pizza-with-basil-at-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      github: "https://github.com/mohitmasiwal/foodapp.git",
-      deployed: "https://fabulous-otter-a82720.netlify.app/",
-    },
+   
     {
       name: "Recipe Application",
       description: "A recipe app showcasing different food recipes with detailed descriptions, ingredients, and instructions. Built using modern UI technologies.",
       image: "https://wallpapercave.com/wp/wp3724325.jpg",  
       github: "https://github.com/mohitmasiwal/fullstackfood.git",
-      deployed: "https://stellular-raindrop-9d0e1d.netlify.app/",
+      deployed: "  https://radiant-sprite-77e775.netlify.app/",
     },
     {
       name: "Weather Application",
@@ -33,13 +27,14 @@ const Projects = () => {
       github: "https://github.com/mohitmasiwal/weatherapp.git",
       deployed: "https://mohitmasiwal.netlify.app/",
     },
-    {
-      name: "Renting Clothes",
-      description: "A platform for renting clothes, providing an extensive range of fashionable clothing options. Built with React and Tailwind CSS.",
-      image: "https://c1.peakpx.com/wallpaper/573/909/315/store-clothes-clothing-line-fashion-wallpaper.jpg",
-      github: "https://github.com/mohitmasiwal/rentalcloths.git",
-      deployed: "https://rococo-banoffee-299a35.netlify.app",
+     {
+      name: "Food Ordering Website",
+      description: "A responsive food ordering website where users can browse menus, Built with React and Tailwind CSS.",
+      image: "https://images.pexels.com/photos/29021173/pexels-photo-29021173/free-photo-of-delicious-italian-pizza-with-basil-at-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      github: "https://github.com/mohitmasiwal/foodapp.git",
+      deployed: "https://fabulous-otter-a82720.netlify.app/",
     }
+    
   ];
 
   return (
